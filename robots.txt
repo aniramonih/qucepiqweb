@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qucepiqweb.pages.dev/sitemap.xml
